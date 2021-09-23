@@ -10026,3 +10026,17 @@ h3 {
   content: "/ ";
 }
 
+.row{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+footer{
+  bottom: 0px;
+  text-align: center;
+  background-color: #343a40;
+  color: white;
+  position: fixed;
+  width: 100%;
+}
