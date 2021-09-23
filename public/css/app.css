@@ -10038,7 +10038,6 @@ footer{
   text-align: center;
   background-color: #343a40;
   color: white;
-  position: fixed;
   width: 100%;
 }
 
@@ -10053,9 +10052,10 @@ footer{
   margin-bottom: 2rem;
 }
 
-.row a{
+.col-md-4 a{
   color: black;
 }
+
 
 .raster{
   display: grid;
@@ -10063,4 +10063,14 @@ footer{
   background-color: #e9ecef;
   margin-bottom: 2rem;
   border-radius: 0.25rem;
+}
+
+.social-media{
+  margin-top: -20px;
+}
+.social-media i{
+  padding: 10px;
+}
+.adress-div{
+  margin-top: 5px;
 }

@@ -1,6 +1,22 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+	© {{ __('misc.copyright') }} <br>
+  
+  <a href="...">Over ons</a>
+
+  <div class="adress-div">
+    <p>Crerarstraat 1108</p>
+    <p>6135 CA, Sittard</p>
+    <p>Tel: +31 6 13266031</p>
+  </div>
+  <p>Volg ons op: </p> 
+
+  <div class="social-media">
+    <i class="fab fa-instagram"></i>  
+    <i class="fab fa-facebook-f"></i> 
+    <i class="fab fa-twitter"></i>
+  </div> 
+
 </footer>
 
 
