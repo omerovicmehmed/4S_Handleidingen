@@ -23,7 +23,7 @@
 
     <div class="container">
         <!-- Example row of columns -->
-        <div class="row">
+        <div class="row raster">
 
             @foreach($brands->chunk($chunk_size) as $chunk)
                 <div class="col-md-4">
