@@ -10056,3 +10056,11 @@ footer{
 .row a{
   color: black;
 }
+
+.raster{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #e9ecef;
+  margin-bottom: 2rem;
+  border-radius: 0.25rem;
+}
