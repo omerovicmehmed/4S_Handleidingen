@@ -4,6 +4,7 @@
     <p>{{ __('introduction_texts.homepage_line_1') }}</p>
     <p>{{ __('introduction_texts.homepage_line_2') }}</p>
     <p>{{ __('introduction_texts.homepage_line_3') }}</p>
+    <button onclick="window.location.href='/handleidingen'" id="button-handleiding" type="button">{{ __('misc.download_manual') }}</button>
 @endsection
 
 @section('content')
