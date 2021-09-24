@@ -10074,3 +10074,31 @@ footer{
 .adress-div{
   margin-top: 5px;
 }
+
+.breadcrumb {
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #185d82 5%, #0061a7 100%);
+	background-color:#185d82;
+	border-radius:3px;
+	border:1px solid #0b3a59;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #07254a;
+}
+.breadcrumb:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #185d82 100%);
+	background-color:#0061a7;
+}
+.breadcrumb:active {
+	position:relative;
+	top:1px;
+}
+
+.breadcrumb a{
+  color: white;
+}

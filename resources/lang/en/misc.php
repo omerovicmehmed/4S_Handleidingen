@@ -12,7 +12,7 @@ return [
     | you want to customize your views to better match your application.
     |
     */
-
+    'download_handleiding' => "Download",
     'home' => "Home",
 'home_alt' => "Download your manual homepage: Free user guides!",
 'homepage_title' => "Download your manual",
