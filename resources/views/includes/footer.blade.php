@@ -2,7 +2,7 @@
 <footer>
 	© {{ __('misc.copyright') }} <br>
   
-  <a href="...">Over ons</a>
+  <a href="...">Over ons</a> / <a class="footer-contact" style="font-size: 0.9rem; color: #3490dc;" href="contact" title="{{ __('misc.contact') }}">Contact</a> 
 
   <div class="adress-div">
     <p>Crerarstraat 1108</p>
